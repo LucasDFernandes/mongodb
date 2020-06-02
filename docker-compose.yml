@@ -7,7 +7,7 @@ services:
         restart: always
         environment:
             MONGO_INITDB_ROOT_USERNAME: root
-            MONGO_INITDB_ROOT_PASSWORD: ADp8Pb89eGcjd5@%$NxU&rkKWs$eN2JoU$dQ
+            MONGO_INITDB_ROOT_PASSWORD: 6YefuV9G4g3ht3SLs0KMCTkdttebjmTJI1rS
             MONGO_INITDB_DATABASE: lojaDoceComDe
         ports:
             - 27017:27017
